@@ -61,8 +61,8 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="mailto:byeonghunpark@snu.ac.kr">
+  <a href="byeonghunpark@snu.ac.kr">
     <img
-      src="https://img.shields.io/badge/mailto:byeonghunpark@snu.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/byeonghunpark@snu.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
