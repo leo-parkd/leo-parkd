@@ -59,6 +59,12 @@
 
 <br>
 
+<a href="https://github.com/leo-parkd/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
+
+<br>
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:byeonghunpark@snu.ac.kr">
