@@ -59,9 +59,11 @@
 
 <br>
 
-<a href="https://github.com/leo-parkd/gitanimals">
-    <img src = "https://render.gitanimals.org/farms/leo-parkd" width="300"/>
-</a>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <a href="https://github.com/leo-parkd/gitanimals">
+    <img src="https://render.gitanimals.org/farms/leo-parkd" width="300" />
+  </a>
+</div>
 
 <br>
 
