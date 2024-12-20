@@ -60,7 +60,7 @@
 <br>
 
 <a href="https://github.com/leo-parkd/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+    <img src = "https://render.gitanimals.org/farms/leo-parkd" width="300"/>
 </a>
 
 <br>
