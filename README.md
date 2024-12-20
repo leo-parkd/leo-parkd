@@ -31,14 +31,6 @@
 
   <br />
 
-  <!-- 노션 링크 추가 -->
-  <h3>🔗 My Notion 🔗</h3>
-  <a href="https://flax-silver-62f.notion.site/LEO-park-01b54352550248708c691dd07a72eac1" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/My%20Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  </a>
-
-  <br />
-
   <h3>🛠 Tools 🛠</h3>
   <div>
     <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -63,6 +55,13 @@
       <img src="https://render.gitanimals.org/farms/leo-parkd" width="300" />
     </a>
   </div>
+
+  <br />
+
+  <h3>🔗 My Notion 🔗</h3>
+  <a href="https://flax-silver-62f.notion.site/LEO-park-01b54352550248708c691dd07a72eac1" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/My%20Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
 
   <br />
 
