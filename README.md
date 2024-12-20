@@ -1,18 +1,4 @@
-## Leo.park / BYEONGHUN PARK
-
-안녕하세요!! 🙋‍♂️ Leo 입니다. 🥰 모두 행복하세요!
-<br />
-<br />
-<br />
-
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-
-  <h3>📫 Contact 📫</h3>
-  <a href="mailto:byeonghunpark@snu.ac.kr">
-    <img src="https://img.shields.io/badge/byeonghunpark@snu.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <br /><br /><br />
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 100%;">
 
   <h3>✨ Tech Stack ✨</h3>
   <div>
@@ -77,6 +63,8 @@
       <img src="https://render.gitanimals.org/farms/leo-parkd" width="300" />
     </a>
   </div>
+
+  <br />
 
   <!-- Contact 섹션 맨 아래로 이동 -->
   <div style="margin-top: 50px;">
