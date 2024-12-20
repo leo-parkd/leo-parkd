@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 100%;">
+<div align="center">
 
   <h3>✨ Tech Stack ✨</h3>
   <div>
