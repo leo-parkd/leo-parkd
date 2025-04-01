@@ -52,7 +52,7 @@
 
   <div>
     <a href="https://github.com/leo-parkd/gitanimals">
-      <img src="https://render.gitanimals.org/farms/leo-parkd" width="1200" />
+      <img src="https://render.gitanimals.org/farms/leo-parkd" width="800" />
     </a>
   </div>
 
